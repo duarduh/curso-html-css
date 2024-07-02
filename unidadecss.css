@@ -1,0 +1,38 @@
+.px {
+  background-color: cornflowerblue;
+  padding: 12px 10px;
+  color: darkblue;
+}
+
+.apx {
+  background-color: blue;
+  color: white;
+  text-decoration: none;
+  padding: 5px 4px;
+}
+
+.rem {
+  background-color: cyan;
+  padding: 2rem 2rem;
+}
+
+.arem {
+  background-color: darkcyan;
+  padding: 1rem 2rem;
+}
+
+div {
+  font-size: 100%;
+}
+
+.pxx {
+  font-size: 64px;
+}
+
+.Rem {
+  font-size: 2rem;
+}
+
+.em {
+  font-size: 2rem;
+}
