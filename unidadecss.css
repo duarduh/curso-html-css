@@ -19,6 +19,7 @@
 .arem {
   background-color: darkcyan;
   padding: 1rem 2rem;
+  text-decoration: none;         
 }
 
 div {
@@ -27,6 +28,7 @@ div {
 
 .pxx {
   font-size: 64px;
+  text-shadow:5px 10px 1px gainsboro;
 }
 
 .Rem {
