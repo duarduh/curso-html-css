@@ -23,10 +23,10 @@ h1{
     }
 
 a{
-    background-color: black;
+    background-color:grey;
     text-decoration: none;
-    color: white;
-    padding: 5px;
+    color:aliceblue;
+    padding: 6px;
     border-radius: 5px;
 }
 
@@ -55,17 +55,17 @@ a{
      }
 
      body{
-        background-color: gainsboro;
+        background-color:gainsboro;
      }
 
      .conte{
         background-color: white;
-        padding: 65px;
+        padding: 70px;
      }
 
      .ulti{
         background-color: white;
-        padding: 65px;
+        padding: 60px;
      }
 
      .ultima{
