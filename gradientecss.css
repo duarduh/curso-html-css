@@ -1,0 +1,14 @@
+div{
+    height: 200px;
+}
+
+
+
+.linear{
+    background-image: linear-gradient( to right, red, black, gainsboro);
+}
+
+.radial{
+    background-image: radial-gradient(circle, gainsboro, white, gainsboro);
+}
+

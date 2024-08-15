@@ -1,0 +1,25 @@
+a{
+    display: inline-block;
+    padding: 4rem 2rem;
+    color: aliceblue;
+    border: 2px solid black ;
+    border-radius: 100%;
+    font-size: arial;
+    text-decoration: none;
+    background:red ;
+}
+
+a:hover{
+    background: #adl;
+    color:#147
+}
+
+a:focus{
+    background: #cfa;
+    color: #371;
+}
+
+a:active{
+    background: #ffa;
+    color: #761;
+}
